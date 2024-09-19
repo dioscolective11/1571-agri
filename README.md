@@ -12,13 +12,13 @@ The following methodology with the data is presented in this repository, the met
 
 Now Available: 
 
-Datasets of Soil and Water (Geological and water departments) 
+1.Datasets of Soil and Water (Geological and water departments) 
 
-Solution Images using simulation  
+2.Solution Images using simulation  
 
-Expected Outcomes 
+3.Expected Outcomes 
 
-Hardware Designs 
+4.Hardware Designs 
 
  
 
@@ -26,13 +26,13 @@ Hardware Designs
 
 Upcoming: 
 
-Drone Design  
+1.Drone Design  
 
-Writeups  
+2.Writeups  
 
-CNN classifier details  
+3.CNN classifier details  
 
-Processing Details  
+4.Processing Details  
 
  
 
