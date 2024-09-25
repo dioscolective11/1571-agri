@@ -8,7 +8,7 @@ Category: Hardware
 
 Theme: Robotics and Drones 
 
-The following methodology with the data is presented in this repository, the methods of classification and image capturing methods will be updated. The use of CNN and predefined datasets to give AET and comprehending with water commands  
+The following methodology with the data is presented in this repository, the methods of classification and image capturing methods will be updated. The use of 3d visualization and predefined datasets to give AET and comprehending with water commands  
 
 Now Available: 
 
@@ -30,7 +30,7 @@ Upcoming:
 
 2.Writeups  
 
-3.CNN classifier details  
+3.3d visualization classifier details  
 
 4.Processing Details  
 
