@@ -1,3 +1,6 @@
+![Logo](https://github.com/user-attachments/assets/8fbcc7fc-1bf6-41c1-893c-959fa85e8e47)
+
+
 The project is the solution to the SIH problem 1571 “Drone-based Intelligent ET sensing system and irrigation water use accounting system for irrigation commands.”  
 
 Organization: Ministry of Jal Shakti 
