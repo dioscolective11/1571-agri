@@ -23,7 +23,7 @@ Now Available:
 
 4.Hardware Designs 
 
-5. Drone Design ( CAD Drawing)
+5.Drone Design ( CAD Drawing)
 
  
 
