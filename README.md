@@ -10,6 +10,9 @@ Theme: Robotics and Drones
 
 The following methodology with the data is presented in this repository, the methods of classification and image capturing methods will be updated. The use of 3d visualization and predefined datasets to give AET and comprehending with water commands  
 
+The design is uploaded for design considering a cost effective method of drone with minimum spending. 
+minimum requirement for building and providing accurate result not hampering gis
+
 Now Available: 
 
 1.Datasets of Soil and Water (Geological and water departments) 
@@ -20,19 +23,20 @@ Now Available:
 
 4.Hardware Designs 
 
+5. Drone Design ( CAD Drawing)
+
  
 
  
 
 Upcoming: 
 
-1.Drone Design  
 
-2.Writeups  
+1.Writeups  
 
-3.3d visualization classifier details  
+2.3d visualization classifier details  
 
-4.Processing Details  
+3.Processing Details  
 
  
 
